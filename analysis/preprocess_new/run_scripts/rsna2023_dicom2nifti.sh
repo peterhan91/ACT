@@ -22,8 +22,7 @@ conda activate ctproject
 
 REPO="${ACT_REPO:-/path/to/ACT}/analysis/preprocess_new"
 HELPER="${ACT_REPO:-/path/to/ACT}/analysis/dropbox_patches/dicom_series_to_nifti.py"
-# NOTE: generate_rsna2023_split_csvs.py was not retained. The seed-42 patient
-# split it produced is deterministically reconstructed and verified by
+# The seed-42 patient split is deterministically reconstructed and verified by
 # analysis/experiments/supplementary/reconstruct_rsna2023_test_manifest.py.
 SPLITTER="${ACT_REPO:-/path/to/ACT}/analysis/dropbox_patches/generate_rsna2023_split_csvs.py"
 LABEL_GEN="$REPO/generate_label_csvs.py"
@@ -54,7 +53,7 @@ if [[ -f "$SPLITTER" ]]; then
         --seed       42 \
         --ratios     0.7 0.1 0.2
 else
-    echo "[skip] $SPLITTER not retained; reconstruct the seed-42 split with"
+    echo "[skip] split step: reconstruct the seed-42 split with"
     echo "       analysis/experiments/supplementary/reconstruct_rsna2023_test_manifest.py"
 fi
 

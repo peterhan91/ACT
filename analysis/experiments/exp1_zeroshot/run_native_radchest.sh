@@ -1,8 +1,7 @@
 #!/bin/bash
 # Native RAD-ChestCT (raw .npz, 0.8mm iso HU, LPS — orientation verified).
 # Runs the Merlin native radchest evaluation, then re-aggregates.
-# CT-CLIP stays ctrate-only. The COLIPRI baseline was retired from the release
-# (its runner was archived and is not part of the paper's benchmark).
+# CT-CLIP stays ctrate-only.
 # Detached:  nohup ./run_native_radchest.sh > run_native_radchest.log 2>&1 & disown
 set -uo pipefail
 cd "$(dirname "$0")"

@@ -17,7 +17,7 @@ echo "==== run_pmbb_exp1 START @ $(date) (pid $$) | datasets=[$DS] ===="
 (
   echo "[3D] start @ $(date)"
   echo "[3D] ours @ $(date)";    ./ours/run.sh    --datasets $DS --modes plain openai && echo "[3D] ours OK"    || echo "[3D] ours FAIL"
-# (COLIPRI baseline retired from the release; its runner was archived)
+# (COLIPRI baseline not included)
   echo "[3D] merlin @ $(date)";  ./merlin/run.sh  --datasets $DS --source native       && echo "[3D] merlin OK"  || echo "[3D] merlin FAIL"
   echo "[3D] m3d @ $(date)";     ./m3dclip/run.sh --datasets $DS --source native       && echo "[3D] m3d OK"     || echo "[3D] m3d FAIL"
   echo "[3D] ctclip @ $(date)";  ./ctclip/run.sh  --datasets $DS --source native       && echo "[3D] ctclip OK"  || echo "[3D] ctclip FAIL"
