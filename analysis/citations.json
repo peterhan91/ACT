@@ -1,0 +1,364 @@
+{
+  "TAUTOLOGICAL": {
+    "label": "Direct radiographic finding match",
+    "note": "Concept contains the label term itself; no external citation needed."
+  },
+
+  "Drazner2001_JVP": {
+    "pmid": "11756584",
+    "doi": "10.1056/NEJMoa010641",
+    "first_author": "Drazner MH",
+    "title": "Prognostic importance of elevated jugular venous pressure and a third heart sound in patients with heart failure",
+    "journal": "N Engl J Med",
+    "year": 2001,
+    "volume_pages": "345(8):574-581",
+    "claim": "Elevated jugular/central venous pressure (imaged radiographically as distended IVC/hepatic veins with contrast reflux) is a prognostic marker of decompensated heart failure."
+  },
+  "Clark2015_CT_HF": {
+    "pmid": "27408665",
+    "pmcid": "PMC4921175",
+    "doi": "10.2484/rcr.v10i1.1065",
+    "first_author": "Clark TJ",
+    "title": "Computed tomography of acute heart failure: A novel case and literature review",
+    "journal": "Radiol Case Rep",
+    "year": 2015,
+    "volume_pages": "10(1):1065",
+    "claim": "Contrast-enhanced CT in acute/imminent heart failure can show reflux, pooling, and layering of contrast in the IVC and hepatic veins/parenchyma."
+  },
+  "Detrano2008_CAC": {
+    "pmid": "18367736",
+    "doi": "10.1056/NEJMoa072100",
+    "first_author": "Detrano R",
+    "title": "Coronary calcium as a predictor of coronary events in four racial or ethnic groups",
+    "journal": "N Engl J Med",
+    "year": 2008,
+    "volume_pages": "358(13):1336-1345",
+    "claim": "Coronary artery calcium predicts incident coronary events across populations; correlated with risk-factor burden (age, HTN, T2D, dyslipidemia) and a marker of subclinical atherosclerosis."
+  },
+  "Kronmal2007_MESA_CAC_riskfactors": {
+    "pmid": "17502571",
+    "doi": "10.1161/CIRCULATIONAHA.106.674143",
+    "first_author": "Kronmal RA",
+    "title": "Risk factors for the progression of coronary artery calcification in asymptomatic subjects: results from the Multi-Ethnic Study of Atherosclerosis (MESA)",
+    "journal": "Circulation",
+    "year": 2007,
+    "volume_pages": "115(21):2722-2730",
+    "claim": "In MESA, traditional cardiovascular risk factors including body mass index, hypertension, diabetes, and glucose were associated with incident coronary calcium and progression of existing calcification."
+  },
+  "Sharma2017_CAC_HFpEF": {
+    "pmid": "28985952",
+    "doi": "10.1016/j.amjcard.2017.07.089",
+    "first_author": "Sharma K",
+    "title": "Usefulness of Coronary Artery Calcium to Predict Heart Failure With Preserved Ejection Fraction in Men Versus Women (from the Multi-Ethnic Study of Atherosclerosis)",
+    "journal": "Am J Cardiol",
+    "year": 2017,
+    "volume_pages": "120(10):1847-1853",
+    "claim": "MESA analysis found coronary artery calcium associated with incident HFpEF risk, supporting CAC as a heart-failure comorbidity/risk marker rather than a direct congestion finding."
+  },
+  "London2003_CKD": {
+    "pmid": "12937218",
+    "first_author": "London GM",
+    "title": "Arterial media calcification in end-stage renal disease: impact on all-cause and cardiovascular mortality",
+    "journal": "Nephrol Dial Transplant",
+    "year": 2003,
+    "volume_pages": "18(9):1731-1740",
+    "claim": "Vascular media calcification is a hallmark of CKD-MBD; thoracoabdominal aortic Ca²⁺ load tracks dialysis vintage and CV/all-cause mortality. (Deprecated for T2D-renal / CKD aortic-Ca²⁺ decisions — superseded by Lehto1996_T2D_medial and Goodman2000_ESRD_CAC respectively.)"
+  },
+  "Lehto1996_T2D_medial": {
+    "pmid": "8696962",
+    "first_author": "Lehto S",
+    "title": "Medial artery calcification. A neglected harbinger of cardiovascular complications in non-insulin-dependent diabetes mellitus",
+    "journal": "Arterioscler Thromb Vasc Biol",
+    "year": 1996,
+    "volume_pages": "16(8):978-983",
+    "claim": "In a Finnish T2D cohort, plain-film medial arterial calcification independently predicted CV, CHD, and stroke mortality — establishing Mönckeberg-type medial calcification as a diabetes-specific vascular lesion visible on imaging."
+  },
+  "Goodman2000_ESRD_CAC": {
+    "pmid": "10816185",
+    "first_author": "Goodman WG",
+    "title": "Coronary-artery calcification in young adults with end-stage renal disease who are undergoing dialysis",
+    "journal": "N Engl J Med",
+    "year": 2000,
+    "volume_pages": "342(20):1478-1483",
+    "claim": "EBCT in 20–30-yr-old ESRD dialysis patients showed extensive coronary-artery calcification (88% in 20–30y group) tied to dialysis vintage and Ca×P product — seminal observation of accelerated vascular calcification in CKD/ESRD."
+  },
+  "Block2004_CKD_MBD": {
+    "pmid": "15284307",
+    "first_author": "Block GA",
+    "title": "Mineral metabolism, mortality, and morbidity in maintenance hemodialysis",
+    "journal": "J Am Soc Nephrol",
+    "year": 2004,
+    "volume_pages": "15(8):2208-2218",
+    "claim": "In >40,000 hemodialysis patients, elevated serum phosphorus, Ca×P, and PTH independently predicted all-cause and CV mortality — population-scale evidence for CKD-MBD as a driver of vascular calcification and mortality."
+  },
+  "Adler2015_pericardial_ESC": {
+    "pmid": "26320112",
+    "doi": "10.1093/eurheartj/ehv318",
+    "first_author": "Adler Y",
+    "title": "2015 ESC Guidelines for the diagnosis and management of pericardial diseases",
+    "journal": "Eur Heart J",
+    "year": 2015,
+    "volume_pages": "36(42):2921-2964",
+    "claim": "ESC guideline: heart failure (chronic congestive states), uraemia, and fluid overload are explicitly listed aetiologies of transudative pericardial effusion; pericardial effusion is a documented cardiac imaging finding in HF, HFpEF, hypertensive heart disease, and pulmonary congestion."
+  },
+  "Porcel2013_pleural": {
+    "pmid": "23374395",
+    "doi": "10.1016/j.disamonth.2012.11.002",
+    "first_author": "Porcel JM",
+    "title": "Pleural effusions",
+    "journal": "Dis Mon",
+    "year": 2013,
+    "volume_pages": "59(2):29-57",
+    "claim": "Comprehensive pleural-effusion review: CHF is the leading transudative aetiology, and concurrent pleural + pericardial effusion is a recognised presentation of fluid-overload / decompensated heart failure."
+  },
+  "Allison2004_crossbed": {
+    "pmid": "14656730",
+    "doi": "10.1161/01.ATV.0000110786.02097.0c",
+    "first_author": "Allison MA",
+    "title": "Patterns and risk factors for systemic calcified atherosclerosis",
+    "journal": "Arterioscler Thromb Vasc Biol",
+    "year": 2004,
+    "volume_pages": "24(2):331-336",
+    "claim": "Whole-body EBCT in 650 asymptomatic adults across carotid, coronary, thoracic and abdominal aorta, and iliac beds — directly quantifies the cross-bed correlation of calcified atherosclerosis (abdominal-aorta Ca²⁺ tracks coronary Ca²⁺ as components of one systemic process)."
+  },
+  "Cantin2009_bronchiectasis_CT": {
+    "pmid": "19696251",
+    "first_author": "Cantin L",
+    "title": "Bronchiectasis",
+    "journal": "AJR Am J Roentgenol",
+    "year": 2009,
+    "volume_pages": "193(3):W158-W171",
+    "claim": "Radiology pictorial review explicitly cataloguing CT findings of bronchiectasis and its complications: consolidation from infectious exacerbation, tree-in-bud, peribronchial thickening, and mucus impaction. The structural lesion of bronchiectasis is bronchial dilation; consolidation reflects superimposed infection / mucus impaction rather than the disease itself, making the consolidation-in-bronchiectasis link a known clinical-radiologic association (not a direct manifestation)."
+  },
+  "Long2017_IVC_sepsis": {
+    "pmid": "29343170",
+    "doi": "10.1097/SHK.0000000000000801",
+    "first_author": "Long E",
+    "title": "Does respiratory variation in inferior vena cava diameter predict fluid responsiveness: a systematic review and meta-analysis",
+    "journal": "Shock",
+    "year": 2017,
+    "volume_pages": "47(5):550-559",
+    "claim": "Systematic review / meta-analysis showing IVC ultrasonography has limited accuracy for predicting fluid responsiveness in critically ill patients (including septic shock) — frames the audit's 'distended IVC' association with sepsis as a confounded / non-canonical sign rather than a direct manifestation of distributive shock (which classically produces a *collapsed* IVC)."
+  },
+  "Mohler2001_valve": {
+    "pmid": "11257079",
+    "doi": "10.1161/01.CIR.103.11.1522",
+    "first_author": "Mohler ER 3rd",
+    "title": "Bone formation and inflammation in cardiac valves",
+    "journal": "Circulation",
+    "year": 2001,
+    "volume_pages": "103(11):1522-1528",
+    "claim": "Calcific aortic valve disease shares osteogenic / inflammatory mechanisms with atherosclerosis; aortic Ca²⁺ load co-tracks valvular calcification."
+  },
+  "Bos2015_dementia": {
+    "pmid": "25150731",
+    "doi": "10.1016/j.jalz.2014.05.1758",
+    "first_author": "Bos D",
+    "title": "Atherosclerotic calcification is related to a higher risk of dementia and cognitive decline",
+    "journal": "Alzheimers Dement",
+    "year": 2015,
+    "volume_pages": "11(6):639-647.e1",
+    "claim": "Rotterdam Study (n=2364): higher aortic-arch / coronary / carotid calcification associates with incident dementia, independent of classical risk factors."
+  },
+  "Schulz2004_osteoporosis": {
+    "pmid": "15356016",
+    "first_author": "Schulz E",
+    "title": "Aortic calcification and the risk of osteoporosis and fractures",
+    "journal": "J Clin Endocrinol Metab",
+    "year": 2004,
+    "volume_pages": "89(9):4246-4253",
+    "claim": "Aortic Ca²⁺ load inversely associates with bone mineral density; shared aging biology between vascular calcification and bone loss."
+  },
+  "Sin2003_COPD": {
+    "pmid": "12654609",
+    "doi": "10.1161/01.CIR.0000056767.69054.B3",
+    "first_author": "Sin DD",
+    "title": "Why are patients with chronic obstructive pulmonary disease at increased risk of cardiovascular diseases?",
+    "journal": "Circulation",
+    "year": 2003,
+    "volume_pages": "107(11):1514-1519",
+    "claim": "COPD/chronic bronchitis and atherosclerosis share systemic inflammation and smoking; aortic Ca²⁺ is a co-morbidity marker, not an airway-disease imaging feature."
+  },
+  "DeTorres2007_emphysema_lung_cancer": {
+    "pmid": "18079226",
+    "doi": "10.1378/chest.07-1490",
+    "first_author": "de Torres JP",
+    "title": "Assessing the relationship between lung cancer risk and emphysema detected on low-dose CT of the chest",
+    "journal": "Chest",
+    "year": 2007,
+    "volume_pages": "132(6):1932-1938",
+    "claim": "Emphysema detected on low-dose chest CT was associated with increased lung cancer risk after adjustment for age, sex, smoking history, and airway obstruction."
+  },
+  "Beigel2013_IVC": {
+    "pmid": "23860098",
+    "first_author": "Beigel R",
+    "title": "Noninvasive evaluation of right atrial pressure",
+    "journal": "J Am Soc Echocardiogr",
+    "year": 2013,
+    "volume_pages": "26(9):1033-1042",
+    "claim": "IVC diameter and collapsibility correlate with right atrial pressure; large/non-collapsing IVC indicates elevated CVP / right-sided HF or volume overload."
+  },
+  "Stawicki2009_IVC": {
+    "pmid": "19651063",
+    "doi": "10.1016/j.jamcollsurg.2009.02.062",
+    "first_author": "Stawicki SP",
+    "title": "Intensivist use of hand-carried ultrasonography to measure IVC collapsibility in estimating intravascular volume status",
+    "journal": "J Am Coll Surg",
+    "year": 2009,
+    "volume_pages": "209(1):55-61",
+    "claim": "Distended, non-collapsing IVC in critical care correlates with elevated CVP; in shock states the IVC pattern informs volume status (distributive/hypovolemic typically collapsed, cardiogenic/obstructive distended)."
+  },
+  "Sagrista1999_pericardial": {
+    "pmid": "10615077",
+    "first_author": "Sagristà-Sauleda J",
+    "title": "Long-term follow-up of idiopathic chronic pericardial effusion",
+    "journal": "N Engl J Med",
+    "year": 1999,
+    "volume_pages": "341(27):2054-2059",
+    "claim": "Pericardial effusion is a well-characterised cardiac imaging finding; aetiologies include heart failure, fluid overload, uraemia, infection, malignancy."
+  },
+
+  "Light2002_pleural": {
+    "pmid": "12075059",
+    "doi": "10.1056/NEJMcp010731",
+    "first_author": "Light RW",
+    "title": "Pleural effusion",
+    "journal": "N Engl J Med",
+    "year": 2002,
+    "volume_pages": "346(25):1971-1977",
+    "claim": "Pleural effusion is a direct radiographic manifestation of heart failure (transudate from increased pulmonary capillary pressure) and of pneumonia (parapneumonic exudate)."
+  },
+  "Sahn2007_parapneumonic": {
+    "pmid": "17990232",
+    "first_author": "Sahn SA",
+    "title": "Diagnosis and management of parapneumonic effusions and empyema",
+    "journal": "Clin Infect Dis",
+    "year": 2007,
+    "volume_pages": "45(11):1480-1486",
+    "claim": "Pleural effusion accompanying pneumonic consolidation is a direct radiographic finding of parapneumonic effusion / empyema."
+  },
+  "Davies2010_BTS": {
+    "pmid": "20696693",
+    "doi": "10.1136/thx.2010.137000",
+    "first_author": "Davies HE",
+    "title": "Management of pleural infection in adults: British Thoracic Society Pleural Disease Guideline 2010",
+    "journal": "Thorax",
+    "year": 2010,
+    "volume_pages": "65(Suppl 2):ii41-53",
+    "claim": "Empyema imaging hallmarks: loculated pleural fluid, adjacent lower-lobe consolidation, indication for chest drain placement."
+  },
+  "Walker2012_pleural": {
+    "pmid": "22786988",
+    "first_author": "Walker CM",
+    "title": "Tumorlike conditions of the pleura",
+    "journal": "RadioGraphics",
+    "year": 2012,
+    "volume_pages": "32(4):971-985",
+    "claim": "CT differential of pleural lesions and effusions; documents the spectrum of pleural disease imaging."
+  },
+  "Kuhlman1997_pleuralCT": {
+    "pmid": "9017800",
+    "first_author": "Kuhlman JE",
+    "title": "Complex disease of the pleural space: radiographic and CT evaluation",
+    "journal": "RadioGraphics",
+    "year": 1997,
+    "volume_pages": "17(1):63-79",
+    "claim": "Pleural effusion produces adjacent (compressive / passive) atelectasis on CT — a directly observable radiographic sequence."
+  },
+  "Franquet2018_pneumonia": {
+    "pmid": "30036297",
+    "first_author": "Franquet T",
+    "title": "Imaging of community-acquired pneumonia",
+    "journal": "J Thorac Imaging",
+    "year": 2018,
+    "volume_pages": "33(5):282-294",
+    "claim": "Lobar / patchy consolidation with air bronchograms and ground-glass opacities are direct CT manifestations of community-acquired pneumonia."
+  },
+  "Sheard2012_ARDS": {
+    "pmid": "22472500",
+    "first_author": "Sheard S",
+    "title": "Imaging of acute respiratory distress syndrome",
+    "journal": "Respir Care",
+    "year": 2012,
+    "volume_pages": "57(4):607-612",
+    "claim": "Bilateral, gradient-distributed ground-glass opacities and consolidation on CT are the canonical imaging signature of ARDS / acute respiratory failure."
+  },
+  "Cusack2023_sepsis_ARDS": {
+    "pmid": "37332755",
+    "pmcid": "PMC10272540",
+    "doi": "10.3389/fmed.2023.1203827",
+    "first_author": "Cusack R",
+    "title": "Endothelial dysfunction triggers acute respiratory distress syndrome in patients with sepsis: a narrative review",
+    "journal": "Front Med (Lausanne)",
+    "year": 2023,
+    "volume_pages": "10:1203827",
+    "claim": "Sepsis is a major cause of ARDS and can drive acute lung injury through endothelial dysfunction, supporting diffuse lung-injury concepts as sepsis-related but non-specific confounds."
+  },
+  "Storto1995_PE": {
+    "pmid": "7676973",
+    "first_author": "Storto ML",
+    "title": "Hydrostatic pulmonary edema: high-resolution CT findings",
+    "journal": "AJR Am J Roentgenol",
+    "year": 1995,
+    "volume_pages": "165(4):817-820",
+    "claim": "Hydrostatic pulmonary edema on HRCT shows ground-glass opacification, smooth interlobular septal thickening, and consolidation; supports CT diagnosis of cardiogenic edema."
+  },
+  "Valvani2019_postobstructive": {
+    "pmid": "31516903",
+    "pmcid": "PMC6712245",
+    "doi": "10.21037/atm.2019.05.26",
+    "first_author": "Valvani A",
+    "title": "Postobstructive pneumonia in lung cancer",
+    "journal": "Ann Transl Med",
+    "year": 2019,
+    "volume_pages": "7(15):357",
+    "claim": "Postobstructive pneumonia can complicate lung cancer, especially advanced disease, and is evaluated with imaging; consolidation is therefore a disease-related confound rather than a direct tumor-mass finding."
+  },
+  "DeWever2011_crazypaving": {
+    "pmid": "22347941",
+    "first_author": "De Wever W",
+    "title": "The crazy-paving pattern: a radiological-pathological correlation",
+    "journal": "Insights Imaging",
+    "year": 2011,
+    "volume_pages": "2(2):117-132",
+    "claim": "Crazy-paving = ground-glass + superimposed interlobular septal thickening; the GGO-with-septal-thickening motif is the pathological correlate of interlobular septal thickening labels."
+  },
+  "Hansell2008_Fleischner": {
+    "pmid": "18195376",
+    "doi": "10.1148/radiol.2462070712",
+    "first_author": "Hansell DM",
+    "title": "Fleischner Society: glossary of terms for thoracic imaging",
+    "journal": "Radiology",
+    "year": 2008,
+    "volume_pages": "246(3):697-722",
+    "claim": "Canonical definitions of HRCT terms: peribronchial / peribronchovascular thickening, bronchiectasis, consolidation, ground-glass opacity, mosaic attenuation, septal thickening."
+  },
+
+  "Silva2009_ileus": {
+    "pmid": "19325057",
+    "first_author": "Silva AC",
+    "title": "Small bowel obstruction: what to look for",
+    "journal": "RadioGraphics",
+    "year": 2009,
+    "volume_pages": "29(2):423-439",
+    "claim": "Dilated, fluid-filled small-bowel and colon loops on CT are direct radiographic findings of mechanical obstruction or paralytic ileus."
+  },
+  "Roussos2007_hydrothorax": {
+    "pmid": "17645471",
+    "first_author": "Roussos A",
+    "title": "Hepatic hydrothorax: pathophysiology, diagnosis and management",
+    "journal": "J Gastroenterol Hepatol",
+    "year": 2007,
+    "volume_pages": "22(9):1388-1393",
+    "claim": "Ascites can produce ipsilateral pleural effusion (hepatic hydrothorax) via diaphragmatic defects — a known clinical / pathophysiologic association linking ascites and pleural effusion on imaging."
+  },
+  "Krok2014_hydrothorax": {
+    "pmid": "30992917",
+    "first_author": "Krok KL",
+    "title": "Hepatic hydrothorax: current concepts",
+    "journal": "Clin Liver Dis (Hoboken)",
+    "year": 2014,
+    "volume_pages": "4(2):35-37",
+    "claim": "Hepatic hydrothorax review: ascites → pleural effusion through transdiaphragmatic communication; right-sided predominance."
+  }
+}

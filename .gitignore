@@ -1,0 +1,32 @@
+# Secrets and local configuration
+.env
+*.pem
+
+# Data and artifacts (never commit patient-derived or large generated files)
+data/
+outputs/
+logs/
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.pt
+*.pth
+*.pkl
+*.parquet
+*.nii
+*.nii.gz
+concept_bank.*
+*_concepts.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

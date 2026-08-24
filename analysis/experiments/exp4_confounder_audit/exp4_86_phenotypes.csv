@@ -1,0 +1,87 @@
+idx,phecode,phenotype,n_direct,n_associated,test_auc_trusted_probe
+1,165,Cancer within the respiratory system,618.0,10356.0,0.824413289909565
+2,165.1,Cancer of bronchus; lung,618.0,10356.0,0.8220106061470035
+3,174,Breast cancer,14.0,64.0,0.672852233676976
+4,174.1,Breast cancer [female],14.0,64.0,0.6586104468106899
+5,174.11,Malignant neoplasm of female breast,14.0,64.0,0.6708822575997696
+6,195,"Cancer, suspected or other",0.0,2487.0,0.7656914814228013
+7,198,Secondary malignant neoplasm,0.0,2487.0,0.8040754608294931
+8,198.1,Secondary malignancy of lymph nodes,87.0,996.0,0.8004617834394905
+9,198.2,Secondary malignancy of respiratory organs,618.0,10356.0,0.8164504622987406
+10,198.6,Secondary malignancy of bone,522.0,0.0,0.784856727243743
+11,250,Diabetes mellitus,0.0,1585.0,0.6997969853541701
+12,250.2,Type 2 diabetes,0.0,1585.0,0.7097729424536391
+13,250.22,Type 2 diabetes with renal manifestations,0.0,1585.0,0.7768499421500075
+14,276.5,Hypovolemia,0.0,56.0,0.7330703343011913
+15,276.6,Fluid overload,33.0,3872.0,0.8337497272285981
+16,278,"Overweight, obesity and other hyperalimentation",4.0,1585.0,0.8105164961713329
+17,278.1,Obesity,4.0,1585.0,0.8217557280449869
+18,278.11,Morbid obesity,4.0,1585.0,0.8419477957939496
+19,285.21,Anemia in chronic kidney disease,532.0,1419.0,0.8004674585443902
+20,285.22,Anemia in neoplastic disease,0.0,2487.0,0.8051669984516701
+21,289.4,Lymphadenitis,0.0,1260.0,0.6200177376718875
+22,394,Rheumatic disease of the heart valves,0.0,172.0,0.6416382036685642
+23,395,Heart valve disorders,0.0,137.0,0.7567279342575747
+24,401.2,Hypertensive heart and/or renal disease,0.0,3471.0,0.7865581352609654
+25,401.21,Hypertensive heart disease,0.0,3471.0,0.7829352827755893
+26,401.22,Hypertensive chronic kidney disease,532.0,1419.0,0.7061503161900498
+27,411.4,Coronary atherosclerosis,1529.0,583.0,0.7191847252801711
+28,415,Pulmonary heart disease,305.0,1441.0,0.616511692151702
+29,415.1,Acute pulmonary heart disease,305.0,1441.0,0.5570480789146645
+30,415.11,"Pulmonary embolism and infarction, acute",56.0,0.0,0.5710851263725332
+31,415.2,Chronic pulmonary heart disease,305.0,1441.0,0.6813177794712469
+32,416,Cardiomegaly,142.0,0.0,0.7227477775815377
+33,420.2,Pericarditis,30.0,579.0,0.7416765402843601
+34,428.1,Congestive heart failure (CHF) NOS,0.0,3471.0,0.7976786478391099
+35,428.3,Heart failure with reduced EF [Systolic or combined heart failure],0.0,3471.0,0.7864766146016146
+36,428.4,Heart failure with preserved EF [Diastolic heart failure],0.0,3471.0,0.8259824249605056
+37,442,Other aneurysm,989.0,0.0,0.6827105628044228
+38,452,Other venous embolism and thrombosis,24.0,0.0,0.6832356179342816
+39,452.2,Deep vein thrombosis [DVT],92.0,0.0,0.676450504228282
+40,458,Hypotension,0.0,56.0,0.7716998315946104
+41,458.9,Hypotension NOS,0.0,56.0,0.7805298857953776
+42,480,Pneumonia,6162.0,10166.0,0.8255107298348662
+43,480.1,Bacterial pneumonia,6162.0,10166.0,0.8405206951812555
+44,480.11,Pneumococcal pneumonia,6162.0,10166.0,0.7855157681971655
+45,495,Asthma,0.0,2718.0,0.5844453615811437
+46,496,Chronic airway obstruction,0.0,2710.0,0.7880758330603591
+47,496.1,Emphysema,1438.0,0.0,0.8035285027472527
+48,496.2,Chronic bronchitis,0.0,2710.0,0.7719894561598223
+49,496.21,Obstructive chronic bronchitis,0.0,2710.0,0.7799323731061668
+50,496.3,Bronchiectasis,1797.0,163.0,0.7977965102479883
+51,501,Pneumonitis due to inhalation of food or vomitus,6162.0,10166.0,0.8021473344504437
+52,503,Pulmonary congestion and hypostasis,33.0,3872.0,0.8294736207779686
+53,505,Other pulmonary inflamation or edema,33.0,3872.0,0.832156749747875
+54,506,Empyema and pneumothorax,138.0,2973.0,0.8090579710144927
+55,507,Pleurisy; pleural effusion,3015.0,0.0,0.8632190024012225
+56,508,Pulmonary collapse; interstitial and compensatory emphysema,9640.0,0.0,0.7698984980807378
+57,509.1,Respiratory failure,0.0,23557.0,0.8271256451974865
+58,509.2,Respiratory insufficiency,0.0,23557.0,0.8351883830007921
+59,514.2,Solitary pulmonary nodule,6652.0,0.0,0.5709341726054818
+60,550,Abdominal hernia,1089.0,0.0,0.747073548480046
+61,550.2,Diaphragmatic hernia,523.0,0.0,0.761692274457916
+62,560.1,Paralytic ileus,850.0,0.0,0.8090843782654127
+63,568,Other disorders of peritoneum,3601.0,0.0,0.8414626859726344
+64,569,Other disorders of intestine,850.0,0.0,0.8140491551127296
+65,571.5,Other chronic nonalcoholic liver disease,222.0,248.0,0.6852376930501931
+66,571.51,Cirrhosis of liver without mention of alcohol,234.0,2457.0,0.746807391826923
+67,572,Ascites (non malignant),3601.0,0.0,0.8664625715978669
+68,573,Other disorders of liver,222.0,248.0,0.6939986242138365
+69,577,Diseases of pancreas,296.0,251.0,0.6597224097426619
+70,585.1,Acute renal failure,1246.0,14.0,0.7366746143897493
+71,585.3,Chronic renal failure [CKD],532.0,1419.0,0.7656527567655236
+72,585.32,End stage renal disease,532.0,1419.0,0.7822999845163573
+73,585.33,"Chronic Kidney Disease, Stage III",532.0,1419.0,0.7310022566718994
+74,585.4,"Chronic kidney disease, Stage I or II",532.0,1419.0,0.6558137336969729
+75,591,Urinary tract infection,0.0,26.0,0.7187417393602961
+76,681,Superficial cellulitis and abscess,819.0,0.0,0.6390727770469656
+77,740,Osteoarthrosis,4347.0,0.0,0.7040201122000047
+78,743.11,Osteoporosis NOS,0.0,478.0,0.8106010293873485
+79,771.1,Swelling of limb,0.0,596.0,0.615478035258723
+80,782.3,Edema,0.0,596.0,0.6754096223217002
+81,793,Nonspecific abnormal findings on radiological and other examination of musculoskeletal system,0.0,4365.0,0.676753153870542
+82,797,Shock,55.0,726.0,0.8195648971625329
+83,994.1,Systemic inflammatory response syndrome (SIRS),0.0,1223.0,0.6862285718660757
+84,994.2,Sepsis,0.0,1223.0,0.7889376423366926
+85,994.21,Septic shock,0.0,1063.0,0.8509714542211148
+86,1013,Asphyxia and hypoxemia,0.0,23557.0,0.7620662455669629

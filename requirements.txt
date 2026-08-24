@@ -1,0 +1,43 @@
+# ACT core dependencies.
+# Version floors are the known-working versions from the development
+# environments. Exact cluster stacks used for the paper: training on x86 with
+# CUDA 12.4 (2x A100, torchrun DDP); analysis on Python 3.12,
+# torch 2.11.0+cu130, aarch64 NVIDIA GH200 (CUDA 13).
+
+torch>=2.0
+torchvision>=0.15
+numpy>=1.26
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+h5py>=3.6
+nibabel>=5.0
+einops>=0.8
+x-transformers>=2.0
+transformers>=4.40
+huggingface-hub>=0.20
+ftfy>=6.1
+regex>=2021.8.3
+pillow>=9.0
+tqdm>=4.64
+
+# --- Optional extras -------------------------------------------------------
+# Concept extraction and embedding (analysis/get_concepts_ct.py,
+# analysis/get_embed_ct.py; extraction additionally needs a running vLLM
+# OpenAI-compatible server):
+#   openai>=1.0  sentence-transformers>=2.7  joblib>=1.3
+#
+# Figures and statistics (analysis plot scripts, experiments/):
+#   matplotlib>=3.5  seaborn>=0.13  umap-learn>=0.5.5  pynndescent>=0.5
+#   wordcloud>=1.9  networkx>=3.0  lxml>=5.0  pycirclize>=1.0  lifelines>=0.28
+#
+# External-dataset preprocessing (analysis/preprocess_new/):
+#   pydicom  SimpleITK
+#
+# Tests (analysis/tests/):
+#   pytest
+#
+# Baselines (see the per-model setup_env.sh files under
+# analysis/experiments/exp1_zeroshot/ for the exact researched pins;
+# CT-CLIP and f-VLM require editable installs from their own repositories):
+#   monai>=1.3  omegaconf>=2.3  open-clip-torch  merlin-vlm  totalsegmentator

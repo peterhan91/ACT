@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use ACT, please cite the manuscript below."
+title: "ACT: Auditable CT phenotyping through report-derived radiological observations"
+type: software
+repository-code: "https://github.com/peterhan91/ACT"
+url: "https://huggingface.co/peterhan91/clip_3d_ct"
+license: Apache-2.0
+authors:
+  - family-names: Wu
+    given-names: Riga
+  - family-names: Witschey
+    given-names: Walter R.
+  - family-names: Li
+    given-names: Yicheng
+  - family-names: Barajas Ordonez
+    given-names: Felix
+  - family-names: Bressem
+    given-names: Keno K.
+  - family-names: Adams
+    given-names: Lisa C.
+  - family-names: Gong
+    given-names: Haifan
+  - family-names: Weissman
+    given-names: Gary E.
+  - family-names: Shen
+    given-names: Li
+  - family-names: Davatzikos
+    given-names: Christos
+  - family-names: Mortani Barbosa
+    given-names: Eduardo
+    name-suffix: Jr
+  - family-names: Truhn
+    given-names: Daniel
+  - family-names: Han
+    given-names: Tianyu
+    email: tianyu.han@pennmedicine.upenn.edu
+preferred-citation:
+  type: article
+  title: "Auditable CT phenotyping through report-derived radiological observations"
+  authors:
+    - family-names: Wu
+      given-names: Riga
+    - family-names: Witschey
+      given-names: Walter R.
+    - family-names: Li
+      given-names: Yicheng
+    - family-names: Barajas Ordonez
+      given-names: Felix
+    - family-names: Bressem
+      given-names: Keno K.
+    - family-names: Adams
+      given-names: Lisa C.
+    - family-names: Gong
+      given-names: Haifan
+    - family-names: Weissman
+      given-names: Gary E.
+    - family-names: Shen
+      given-names: Li
+    - family-names: Davatzikos
+      given-names: Christos
+    - family-names: Mortani Barbosa
+      given-names: Eduardo
+      name-suffix: Jr
+    - family-names: Truhn
+      given-names: Daniel
+    - family-names: Han
+      given-names: Tianyu
+  year: 2026
+  notes: "Under submission."
