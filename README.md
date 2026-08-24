@@ -206,12 +206,9 @@ the machine-readable [`CITATION.cff`](CITATION.cff) file and offers a
 
 ## License
 
-Apache License 2.0 (see [`LICENSE`](LICENSE)). Vendored components keep their
-original MIT licenses and per-file headers: OpenAI CLIP (`model/model.py`,
-`model/clip.py`, `model/simple_tokenizer.py`, the BPE vocabulary), Meta
-V-JEPA 2 (`model/attentive_pooler.py`), CheXzero (`model/eval.py`), and
-OpenCLIP (`model/loss.py`). The phecode manifests in `phenotypes/` are PheWAS
-Catalog resources ([phewascatalog.org](https://phewascatalog.org/phecodes)),
-redistributed with attribution. RadLex 4.3 is not redistributed: download it
-from [radlex.org](https://radlex.org) under the RSNA license. DINOv2 backbone
-weights are fetched at runtime via `torch.hub`.
+The code in this repository is released under the Apache-2.0 License. Portions
+derived from OpenAI CLIP, Meta V-JEPA 2, CheXzero, and OpenCLIP retain their
+original MIT copyright notices. The phecode manifests in `phenotypes/` are
+PheWAS Catalog resources redistributed with attribution. Model weights,
+observation-bank assets, upstream models, and datasets may be governed by
+separate terms.
